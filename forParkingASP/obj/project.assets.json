@@ -12870,11 +12870,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\forParkingASP\\forParkingASP\\forParkingASP\\forParkingASP.csproj",
+      "projectUniqueName": "C:\\Correct\\forParkingASP\\forParkingASP.csproj",
       "projectName": "forParkingASP",
-      "projectPath": "C:\\forParkingASP\\forParkingASP\\forParkingASP\\forParkingASP.csproj",
+      "projectPath": "C:\\Correct\\forParkingASP\\forParkingASP.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\forParkingASP\\forParkingASP\\forParkingASP\\obj\\",
+      "outputPath": "C:\\Correct\\forParkingASP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
