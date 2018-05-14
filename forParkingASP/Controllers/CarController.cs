@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ParkingLibrary;
-using System.Web.Script.Serialization;
 using Newtonsoft.Json;
 
 namespace forParkingASP.Controllers.API
